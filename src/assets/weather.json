@@ -1,0 +1,2296 @@
+[{
+  "year": 2000,
+  "month": 1,
+  "tempMaxDegC": 8.6,
+  "tempMinDegC": 2.4,
+  "rainMM": 16.5,
+  "sunHours": 78.6
+},
+{
+  "year": 2000,
+  "month": 2,
+  "tempMaxDegC": 10.4,
+  "tempMinDegC": 3.8,
+  "rainMM": 62.2,
+  "sunHours": 102.5
+},
+{
+  "year": 2000,
+  "month": 3,
+  "tempMaxDegC": 12.1,
+  "tempMinDegC": 4.9,
+  "rainMM": 16,
+  "sunHours": 120.4
+},
+{
+  "year": 2000,
+  "month": 4,
+  "tempMaxDegC": 12.9,
+  "tempMinDegC": 5.4,
+  "rainMM": 99.6,
+  "sunHours": 135.8
+},
+{
+  "year": 2000,
+  "month": 5,
+  "tempMaxDegC": 18,
+  "tempMinDegC": 9.6,
+  "rainMM": 87.2,
+  "sunHours": 202.9
+},
+{
+  "year": 2000,
+  "month": 6,
+  "tempMaxDegC": 21,
+  "tempMinDegC": 12.8,
+  "rainMM": 19.2,
+  "sunHours": 169.5
+},
+{
+  "year": 2000,
+  "month": 7,
+  "tempMaxDegC": 21,
+  "tempMinDegC": 12.8,
+  "rainMM": 52.8,
+  "sunHours": 174.7
+},
+{
+  "year": 2000,
+  "month": 8,
+  "tempMaxDegC": 23.2,
+  "tempMinDegC": 14,
+  "rainMM": 32.3,
+  "sunHours": 211.4
+},
+{
+  "year": 2000,
+  "month": 9,
+  "tempMaxDegC": 20.1,
+  "tempMinDegC": 12.5,
+  "rainMM": 105.8,
+  "sunHours": 132.1
+},
+{
+  "year": 2000,
+  "month": 10,
+  "tempMaxDegC": 14.7,
+  "tempMinDegC": 8.5,
+  "rainMM": 155.4,
+  "sunHours": 98
+},
+{
+  "year": 2000,
+  "month": 11,
+  "tempMaxDegC": 11,
+  "tempMinDegC": 4.5,
+  "rainMM": 99.5,
+  "sunHours": 74.9
+},
+{
+  "year": 2000,
+  "month": 12,
+  "tempMaxDegC": 9,
+  "tempMinDegC": 4.6,
+  "rainMM": 73.9,
+  "sunHours": 50
+},
+{
+  "year": 2001,
+  "month": 1,
+  "tempMaxDegC": 7.1,
+  "tempMinDegC": 1.8,
+  "rainMM": 75.2,
+  "sunHours": 87
+},
+{
+  "year": 2001,
+  "month": 2,
+  "tempMaxDegC": 9.2,
+  "tempMinDegC": 2.8,
+  "rainMM": 69.6,
+  "sunHours": 92.3
+},
+{
+  "year": 2001,
+  "month": 3,
+  "tempMaxDegC": 9.5,
+  "tempMinDegC": 3.8,
+  "rainMM": 95.3,
+  "sunHours": 78.2
+},
+{
+  "year": 2001,
+  "month": 4,
+  "tempMaxDegC": 12.8,
+  "tempMinDegC": 5.4,
+  "rainMM": 66.5,
+  "sunHours": 138.5
+},
+{
+  "year": 2001,
+  "month": 5,
+  "tempMaxDegC": 18.8,
+  "tempMinDegC": 9.1,
+  "rainMM": 26,
+  "sunHours": 228
+},
+{
+  "year": 2001,
+  "month": 6,
+  "tempMaxDegC": 20.8,
+  "tempMinDegC": 11.3,
+  "rainMM": 39.1,
+  "sunHours": 248
+},
+{
+  "year": 2001,
+  "month": 7,
+  "tempMaxDegC": 24.3,
+  "tempMinDegC": 14.5,
+  "rainMM": 35.2,
+  "sunHours": 229.1
+},
+{
+  "year": 2001,
+  "month": 8,
+  "tempMaxDegC": 23.5,
+  "tempMinDegC": 14.5,
+  "rainMM": 79,
+  "sunHours": 210.9
+},
+{
+  "year": 2001,
+  "month": 9,
+  "tempMaxDegC": 18.1,
+  "tempMinDegC": 10.8,
+  "rainMM": 59.6,
+  "sunHours": 143.3
+},
+{
+  "year": 2001,
+  "month": 10,
+  "tempMaxDegC": 17.6,
+  "tempMinDegC": 11.3,
+  "rainMM": 108.2,
+  "sunHours": 109.9
+},
+{
+  "year": 2001,
+  "month": 11,
+  "tempMaxDegC": 11.3,
+  "tempMinDegC": 4.4,
+  "rainMM": 33.8,
+  "sunHours": 88.3
+},
+{
+  "year": 2001,
+  "month": 12,
+  "tempMaxDegC": 7.3,
+  "tempMinDegC": 1.4,
+  "rainMM": 17.8,
+  "sunHours": 93.3
+},
+{
+  "year": 2002,
+  "month": 1,
+  "tempMaxDegC": 9.5,
+  "tempMinDegC": 3.5,
+  "rainMM": 51,
+  "sunHours": 53.4
+},
+{
+  "year": 2002,
+  "month": 2,
+  "tempMaxDegC": 11.3,
+  "tempMinDegC": 4.8,
+  "rainMM": 64,
+  "sunHours": 91.4
+},
+{
+  "year": 2002,
+  "month": 3,
+  "tempMaxDegC": 12.4,
+  "tempMinDegC": 5.1,
+  "rainMM": 37.6,
+  "sunHours": 111.3
+},
+{
+  "year": 2002,
+  "month": 4,
+  "tempMaxDegC": 15.7,
+  "tempMinDegC": 6.1,
+  "rainMM": 38.4,
+  "sunHours": 220.5
+},
+{
+  "year": 2002,
+  "month": 5,
+  "tempMaxDegC": 17.3,
+  "tempMinDegC": 9.4,
+  "rainMM": 66.4,
+  "sunHours": 192.2
+},
+{
+  "year": 2002,
+  "month": 6,
+  "tempMaxDegC": 20.1,
+  "tempMinDegC": 11.6,
+  "rainMM": 74.2,
+  "sunHours": 191.5
+},
+{
+  "year": 2002,
+  "month": 7,
+  "tempMaxDegC": 22.3,
+  "tempMinDegC": 13.5,
+  "rainMM": 67.2,
+  "sunHours": 193.9
+},
+{
+  "year": 2002,
+  "month": 8,
+  "tempMaxDegC": 23.3,
+  "tempMinDegC": 14.7,
+  "rainMM": 36.3,
+  "sunHours": 190.4
+},
+{
+  "year": 2002,
+  "month": 9,
+  "tempMaxDegC": 20.3,
+  "tempMinDegC": 11.5,
+  "rainMM": 20,
+  "sunHours": 178.2
+},
+{
+  "year": 2002,
+  "month": 10,
+  "tempMaxDegC": 15.3,
+  "tempMinDegC": 8.4,
+  "rainMM": 61.6,
+  "sunHours": 109.2
+},
+{
+  "year": 2002,
+  "month": 11,
+  "tempMaxDegC": 12.4,
+  "tempMinDegC": 7,
+  "rainMM": 151,
+  "sunHours": 66.1
+},
+{
+  "year": 2002,
+  "month": 12,
+  "tempMaxDegC": 9,
+  "tempMinDegC": 5.2,
+  "rainMM": 119,
+  "sunHours": 34.1
+},
+{
+  "year": 2003,
+  "month": 1,
+  "tempMaxDegC": 8,
+  "tempMinDegC": 2.3,
+  "rainMM": 73.6,
+  "sunHours": 93.6
+},
+{
+  "year": 2003,
+  "month": 2,
+  "tempMaxDegC": 8.4,
+  "tempMinDegC": 1.8,
+  "rainMM": 20.8,
+  "sunHours": 101.2
+},
+{
+  "year": 2003,
+  "month": 3,
+  "tempMaxDegC": 13.6,
+  "tempMinDegC": 4.4,
+  "rainMM": 16.4,
+  "sunHours": 176.9
+},
+{
+  "year": 2003,
+  "month": 4,
+  "tempMaxDegC": 15.7,
+  "tempMinDegC": 6.3,
+  "rainMM": 30,
+  "sunHours": 198
+},
+{
+  "year": 2003,
+  "month": 5,
+  "tempMaxDegC": 18.2,
+  "tempMinDegC": 9,
+  "rainMM": 39.1,
+  "sunHours": 205.5
+},
+{
+  "year": 2003,
+  "month": 6,
+  "tempMaxDegC": 23.3,
+  "tempMinDegC": 13.3,
+  "rainMM": 47.6,
+  "sunHours": 245.5
+},
+{
+  "year": 2003,
+  "month": 7,
+  "tempMaxDegC": 24.2,
+  "tempMinDegC": 14.7,
+  "rainMM": 28.8,
+  "sunHours": 213.9
+},
+{
+  "year": 2003,
+  "month": 8,
+  "tempMaxDegC": 26.4,
+  "tempMinDegC": 15.7,
+  "rainMM": 10.4,
+  "sunHours": 255.3
+},
+{
+  "year": 2003,
+  "month": 9,
+  "tempMaxDegC": 21.9,
+  "tempMinDegC": 10.8,
+  "rainMM": 8.4,
+  "sunHours": 206.7
+},
+{
+  "year": 2003,
+  "month": 10,
+  "tempMaxDegC": 14.5,
+  "tempMinDegC": 6.4,
+  "rainMM": 35.2,
+  "sunHours": 160.7
+},
+{
+  "year": 2003,
+  "month": 11,
+  "tempMaxDegC": 12.6,
+  "tempMinDegC": 6.7,
+  "rainMM": 113.8,
+  "sunHours": 88.2
+},
+{
+  "year": 2003,
+  "month": 12,
+  "tempMaxDegC": 8.8,
+  "tempMinDegC": 3.2,
+  "rainMM": 51.4,
+  "sunHours": 58
+},
+{
+  "year": 2004,
+  "month": 1,
+  "tempMaxDegC": 8.8,
+  "tempMinDegC": 3.1,
+  "rainMM": 71.9,
+  "sunHours": 64
+},
+{
+  "year": 2004,
+  "month": 2,
+  "tempMaxDegC": 8.7,
+  "tempMinDegC": 3.8,
+  "rainMM": 26.2,
+  "sunHours": 65.3
+},
+{
+  "year": 2004,
+  "month": 3,
+  "tempMaxDegC": 10.8,
+  "tempMinDegC": 3.9,
+  "rainMM": 29.5,
+  "sunHours": 102.7
+},
+{
+  "year": 2004,
+  "month": 4,
+  "tempMaxDegC": 14.9,
+  "tempMinDegC": 6.3,
+  "rainMM": 68.8,
+  "sunHours": 155
+},
+{
+  "year": 2004,
+  "month": 5,
+  "tempMaxDegC": 18.2,
+  "tempMinDegC": 9.5,
+  "rainMM": 45,
+  "sunHours": 208.2
+},
+{
+  "year": 2004,
+  "month": 6,
+  "tempMaxDegC": 22.1,
+  "tempMinDegC": 12.6,
+  "rainMM": 40.4,
+  "sunHours": 236
+},
+{
+  "year": 2004,
+  "month": 7,
+  "tempMaxDegC": 22.7,
+  "tempMinDegC": 13.3,
+  "rainMM": 37.6,
+  "sunHours": 201.5
+},
+{
+  "year": 2004,
+  "month": 8,
+  "tempMaxDegC": 23.8,
+  "tempMinDegC": 15.1,
+  "rainMM": 107.8,
+  "sunHours": 213.3
+},
+{
+  "year": 2004,
+  "month": 9,
+  "tempMaxDegC": 20.8,
+  "tempMinDegC": 12.5,
+  "rainMM": 18.8,
+  "sunHours": 182.7
+},
+{
+  "year": 2004,
+  "month": 10,
+  "tempMaxDegC": 15.3,
+  "tempMinDegC": 9.1,
+  "rainMM": 96.6,
+  "sunHours": 101.2
+},
+{
+  "year": 2004,
+  "month": 11,
+  "tempMaxDegC": 11.2,
+  "tempMinDegC": 6.2,
+  "rainMM": 29.6,
+  "sunHours": 60.8
+},
+{
+  "year": 2004,
+  "month": 12,
+  "tempMaxDegC": 8.8,
+  "tempMinDegC": 2.9,
+  "rainMM": 46.4,
+  "sunHours": 48.2
+},
+{
+  "year": 2005,
+  "month": 1,
+  "tempMaxDegC": 9.5,
+  "tempMinDegC": 3.8,
+  "rainMM": 21.6,
+  "sunHours": 72.1
+},
+{
+  "year": 2005,
+  "month": 2,
+  "tempMaxDegC": 7.3,
+  "tempMinDegC": 2.5,
+  "rainMM": 19.7,
+  "sunHours": 62.4
+},
+{
+  "year": 2005,
+  "month": 3,
+  "tempMaxDegC": 11.5,
+  "tempMinDegC": 4.5,
+  "rainMM": 43.6,
+  "sunHours": 96.7
+},
+{
+  "year": 2005,
+  "month": 4,
+  "tempMaxDegC": 14.6,
+  "tempMinDegC": 6.2,
+  "rainMM": 30,
+  "sunHours": 153
+},
+{
+  "year": 2005,
+  "month": 5,
+  "tempMaxDegC": 17.7,
+  "tempMinDegC": 8.5,
+  "rainMM": 19.8,
+  "sunHours": 228.3
+},
+{
+  "year": 2005,
+  "month": 6,
+  "tempMaxDegC": 22.8,
+  "tempMinDegC": 12.9,
+  "rainMM": 32.6,
+  "sunHours": 219.3
+},
+{
+  "year": 2005,
+  "month": 7,
+  "tempMaxDegC": 23.3,
+  "tempMinDegC": 14.1,
+  "rainMM": 45.8,
+  "sunHours": 202.5
+},
+{
+  "year": 2005,
+  "month": 8,
+  "tempMaxDegC": 23.2,
+  "tempMinDegC": 13,
+  "rainMM": 42.4,
+  "sunHours": 250.4
+},
+{
+  "year": 2005,
+  "month": 9,
+  "tempMaxDegC": 21.4,
+  "tempMinDegC": 12.7,
+  "rainMM": 47.5,
+  "sunHours": 143.9
+},
+{
+  "year": 2005,
+  "month": 10,
+  "tempMaxDegC": 17.8,
+  "tempMinDegC": 11.3,
+  "rainMM": 73.4,
+  "sunHours": 89.9
+},
+{
+  "year": 2005,
+  "month": 11,
+  "tempMaxDegC": 10.7,
+  "tempMinDegC": 3.5,
+  "rainMM": 29.2,
+  "sunHours": 93.3
+},
+{
+  "year": 2005,
+  "month": 12,
+  "tempMaxDegC": 8.2,
+  "tempMinDegC": 1.9,
+  "rainMM": 44.4,
+  "sunHours": 65.7
+},
+{
+  "year": 2006,
+  "month": 1,
+  "tempMaxDegC": 7.6,
+  "tempMinDegC": 2.9,
+  "rainMM": 16.8,
+  "sunHours": 51.4
+},
+{
+  "year": 2006,
+  "month": 2,
+  "tempMaxDegC": 7.2,
+  "tempMinDegC": 1.7,
+  "rainMM": 41.2,
+  "sunHours": 62.9
+},
+{
+  "year": 2006,
+  "month": 3,
+  "tempMaxDegC": 9.4,
+  "tempMinDegC": 2.8,
+  "rainMM": 44.6,
+  "sunHours": 91.2
+},
+{
+  "year": 2006,
+  "month": 4,
+  "tempMaxDegC": 14.1,
+  "tempMinDegC": 6,
+  "rainMM": 33.4,
+  "sunHours": 132.3
+},
+{
+  "year": 2006,
+  "month": 5,
+  "tempMaxDegC": 18,
+  "tempMinDegC": 9.8,
+  "rainMM": 91.6,
+  "sunHours": 128.2
+},
+{
+  "year": 2006,
+  "month": 6,
+  "tempMaxDegC": 23.7,
+  "tempMinDegC": 12.9,
+  "rainMM": 11.8,
+  "sunHours": 225.3
+},
+{
+  "year": 2006,
+  "month": 7,
+  "tempMaxDegC": 28.2,
+  "tempMinDegC": 16.7,
+  "rainMM": 23.6,
+  "sunHours": 266.4
+},
+{
+  "year": 2006,
+  "month": 8,
+  "tempMaxDegC": 22.2,
+  "tempMinDegC": 13.5,
+  "rainMM": 68.8,
+  "sunHours": 140.2
+},
+{
+  "year": 2006,
+  "month": 9,
+  "tempMaxDegC": 22.7,
+  "tempMinDegC": 14.5,
+  "rainMM": 78.2,
+  "sunHours": 153.9
+},
+{
+  "year": 2006,
+  "month": 10,
+  "tempMaxDegC": 17.8,
+  "tempMinDegC": 11.2,
+  "rainMM": 64.4,
+  "sunHours": 106.3
+},
+{
+  "year": 2006,
+  "month": 11,
+  "tempMaxDegC": 12.7,
+  "tempMinDegC": 5.4,
+  "rainMM": 98,
+  "sunHours": 97
+},
+{
+  "year": 2006,
+  "month": 12,
+  "tempMaxDegC": 9.7,
+  "tempMinDegC": 4.5,
+  "rainMM": 63.6,
+  "sunHours": 41.2
+},
+{
+  "year": 2007,
+  "month": 1,
+  "tempMaxDegC": 10.5,
+  "tempMinDegC": 5.1,
+  "rainMM": 56,
+  "sunHours": 56.6
+},
+{
+  "year": 2007,
+  "month": 2,
+  "tempMaxDegC": 9.9,
+  "tempMinDegC": 3.9,
+  "rainMM": 92.9,
+  "sunHours": 59.3
+},
+{
+  "year": 2007,
+  "month": 3,
+  "tempMaxDegC": 12.5,
+  "tempMinDegC": 4.4,
+  "rainMM": 43.8,
+  "sunHours": 164.7
+},
+{
+  "year": 2007,
+  "month": 4,
+  "tempMaxDegC": 18.9,
+  "tempMinDegC": 7.7,
+  "rainMM": 3.6,
+  "sunHours": 224.6
+},
+{
+  "year": 2007,
+  "month": 5,
+  "tempMaxDegC": 17.9,
+  "tempMinDegC": 9.7,
+  "rainMM": 80,
+  "sunHours": 149.6
+},
+{
+  "year": 2007,
+  "month": 6,
+  "tempMaxDegC": 21.2,
+  "tempMinDegC": 12.6,
+  "rainMM": 63.8,
+  "sunHours": 139.7
+},
+{
+  "year": 2007,
+  "month": 7,
+  "tempMaxDegC": 21.4,
+  "tempMinDegC": 13.1,
+  "rainMM": 115.2,
+  "sunHours": 159.9
+},
+{
+  "year": 2007,
+  "month": 8,
+  "tempMaxDegC": 21.5,
+  "tempMinDegC": 12.9,
+  "rainMM": 41,
+  "sunHours": 192.6
+},
+{
+  "year": 2007,
+  "month": 9,
+  "tempMaxDegC": 19.9,
+  "tempMinDegC": 11.4,
+  "rainMM": 17.4,
+  "sunHours": 141.1
+},
+{
+  "year": 2007,
+  "month": 10,
+  "tempMaxDegC": 15.4,
+  "tempMinDegC": 8.5,
+  "rainMM": 37.8,
+  "sunHours": 98.4
+},
+{
+  "year": 2007,
+  "month": 11,
+  "tempMaxDegC": 11.4,
+  "tempMinDegC": 4.6,
+  "rainMM": 84.8,
+  "sunHours": 81.3
+},
+{
+  "year": 2007,
+  "month": 12,
+  "tempMaxDegC": 8.9,
+  "tempMinDegC": 3.1,
+  "rainMM": 44.6,
+  "sunHours": 61.4
+},
+{
+  "year": 2008,
+  "month": 1,
+  "tempMaxDegC": 10.4,
+  "tempMinDegC": 4.7,
+  "rainMM": 69,
+  "sunHours": 60.2
+},
+{
+  "year": 2008,
+  "month": 2,
+  "tempMaxDegC": 11,
+  "tempMinDegC": 2,
+  "rainMM": 15.4,
+  "sunHours": 130
+},
+{
+  "year": 2008,
+  "month": 3,
+  "tempMaxDegC": 10.6,
+  "tempMinDegC": 3.7,
+  "rainMM": 69.8,
+  "sunHours": 85.7
+},
+{
+  "year": 2008,
+  "month": 4,
+  "tempMaxDegC": 13.7,
+  "tempMinDegC": 5.2,
+  "rainMM": 63.4,
+  "sunHours": 140.3
+},
+{
+  "year": 2008,
+  "month": 5,
+  "tempMaxDegC": 19.8,
+  "tempMinDegC": 10.5,
+  "rainMM": 64.2,
+  "sunHours": 162.6
+},
+{
+  "year": 2008,
+  "month": 6,
+  "tempMaxDegC": 20.8,
+  "tempMinDegC": 11.9,
+  "rainMM": 45.6,
+  "sunHours": 201.9
+},
+{
+  "year": 2008,
+  "month": 7,
+  "tempMaxDegC": 22.8,
+  "tempMinDegC": 13.7,
+  "rainMM": 76.8,
+  "sunHours": 172.5
+},
+{
+  "year": 2008,
+  "month": 8,
+  "tempMaxDegC": 21.5,
+  "tempMinDegC": 14.2,
+  "rainMM": 64.4,
+  "sunHours": 104.3
+},
+{
+  "year": 2008,
+  "month": 9,
+  "tempMaxDegC": 18.5,
+  "tempMinDegC": 11.2,
+  "rainMM": 43,
+  "sunHours": 110.7
+},
+{
+  "year": 2008,
+  "month": 10,
+  "tempMaxDegC": 15,
+  "tempMinDegC": 6.8,
+  "rainMM": 45,
+  "sunHours": 134.4
+},
+{
+  "year": 2008,
+  "month": 11,
+  "tempMaxDegC": 10.7,
+  "tempMinDegC": 5.2,
+  "rainMM": 58.8,
+  "sunHours": 42.2
+},
+{
+  "year": 2008,
+  "month": 12,
+  "tempMaxDegC": 7.3,
+  "tempMinDegC": 1.7,
+  "rainMM": 41.2,
+  "sunHours": 65.1
+},
+{
+  "year": 2009,
+  "month": 1,
+  "tempMaxDegC": 6.8,
+  "tempMinDegC": 0.3,
+  "rainMM": 72.4,
+  "sunHours": 63.2
+},
+{
+  "year": 2009,
+  "month": 2,
+  "tempMaxDegC": 7.8,
+  "tempMinDegC": 2.1,
+  "rainMM": 69.6,
+  "sunHours": 59.2
+},
+{
+  "year": 2009,
+  "month": 3,
+  "tempMaxDegC": 12.9,
+  "tempMinDegC": 3.7,
+  "rainMM": 30,
+  "sunHours": 158.5
+},
+{
+  "year": 2009,
+  "month": 4,
+  "tempMaxDegC": 16.1,
+  "tempMinDegC": 7.2,
+  "rainMM": 28,
+  "sunHours": 172.8
+},
+{
+  "year": 2009,
+  "month": 5,
+  "tempMaxDegC": 19.1,
+  "tempMinDegC": 9.4,
+  "rainMM": 29.8,
+  "sunHours": 193.9
+},
+{
+  "year": 2009,
+  "month": 6,
+  "tempMaxDegC": 22.4,
+  "tempMinDegC": 12.2,
+  "rainMM": 34,
+  "sunHours": 192.8
+},
+{
+  "year": 2009,
+  "month": 7,
+  "tempMaxDegC": 23,
+  "tempMinDegC": 13.7,
+  "rainMM": 71.4,
+  "sunHours": 155.8
+},
+{
+  "year": 2009,
+  "month": 8,
+  "tempMaxDegC": 23.9,
+  "tempMinDegC": 14.1,
+  "rainMM": 39.6,
+  "sunHours": 167.6
+},
+{
+  "year": 2009,
+  "month": 9,
+  "tempMaxDegC": 20.5,
+  "tempMinDegC": 12,
+  "rainMM": 36,
+  "sunHours": 137.3
+},
+{
+  "year": 2009,
+  "month": 10,
+  "tempMaxDegC": 16.3,
+  "tempMinDegC": 9.3,
+  "rainMM": 39.4,
+  "sunHours": 84.7
+},
+{
+  "year": 2009,
+  "month": 11,
+  "tempMaxDegC": 12.6,
+  "tempMinDegC": 7.4,
+  "rainMM": 148,
+  "sunHours": 62.4
+},
+{
+  "year": 2009,
+  "month": 12,
+  "tempMaxDegC": 7,
+  "tempMinDegC": 1.3,
+  "rainMM": 84.6,
+  "sunHours": 60.3
+},
+{
+  "year": 2010,
+  "month": 1,
+  "tempMaxDegC": 4.5,
+  "tempMinDegC": -0.3,
+  "rainMM": 51.8,
+  "sunHours": 51.3
+},
+{
+  "year": 2010,
+  "month": 2,
+  "tempMaxDegC": 6.9,
+  "tempMinDegC": 1.7,
+  "rainMM": 100.4,
+  "sunHours": 46.7
+},
+{
+  "year": 2010,
+  "month": 3,
+  "tempMaxDegC": 11.1,
+  "tempMinDegC": 3.7,
+  "rainMM": 39.8,
+  "sunHours": 106.4
+},
+{
+  "year": 2010,
+  "month": 4,
+  "tempMaxDegC": 15.8,
+  "tempMinDegC": 5.6,
+  "rainMM": 23.2,
+  "sunHours": 201.7
+},
+{
+  "year": 2010,
+  "month": 5,
+  "tempMaxDegC": 17.3,
+  "tempMinDegC": 7.7,
+  "rainMM": 20.6,
+  "sunHours": 170.4
+},
+{
+  "year": 2010,
+  "month": 6,
+  "tempMaxDegC": 23.5,
+  "tempMinDegC": 12.1,
+  "rainMM": 12.4,
+  "sunHours": 220.1
+},
+{
+  "year": 2010,
+  "month": 7,
+  "tempMaxDegC": 25,
+  "tempMinDegC": 15.1,
+  "rainMM": 18,
+  "sunHours": 161.8
+},
+{
+  "year": 2010,
+  "month": 8,
+  "tempMaxDegC": 21.6,
+  "tempMinDegC": 13.2,
+  "rainMM": 88.6,
+  "sunHours": 110.9
+},
+{
+  "year": 2010,
+  "month": 9,
+  "tempMaxDegC": 19.4,
+  "tempMinDegC": 11.2,
+  "rainMM": 38.2,
+  "sunHours": 128.7
+},
+{
+  "year": 2010,
+  "month": 10,
+  "tempMaxDegC": 15.2,
+  "tempMinDegC": 8.3,
+  "rainMM": 74.8,
+  "sunHours": 104
+},
+{
+  "year": 2010,
+  "month": 11,
+  "tempMaxDegC": 9.1,
+  "tempMinDegC": 4,
+  "rainMM": 32.2,
+  "sunHours": 50
+},
+{
+  "year": 2010,
+  "month": 12,
+  "tempMaxDegC": 3.9,
+  "tempMinDegC": -1.5,
+  "rainMM": 21.4,
+  "sunHours": 18.5
+},
+{
+  "year": 2011,
+  "month": 1,
+  "tempMaxDegC": 7.4,
+  "tempMinDegC": 2.8,
+  "rainMM": 76.8,
+  "sunHours": 35.6
+},
+{
+  "year": 2011,
+  "month": 2,
+  "tempMaxDegC": 10.2,
+  "tempMinDegC": 4.8,
+  "rainMM": 42.8,
+  "sunHours": 36.2
+},
+{
+  "year": 2011,
+  "month": 3,
+  "tempMaxDegC": 12.3,
+  "tempMinDegC": 3.8,
+  "rainMM": 14.6,
+  "sunHours": 126.4
+},
+{
+  "year": 2011,
+  "month": 4,
+  "tempMaxDegC": 19.7,
+  "tempMinDegC": 8.6,
+  "rainMM": 2.4,
+  "sunHours": 218
+},
+{
+  "year": 2011,
+  "month": 5,
+  "tempMaxDegC": 19.4,
+  "tempMinDegC": 9.4,
+  "rainMM": 24.6,
+  "sunHours": 218
+},
+{
+  "year": 2011,
+  "month": 6,
+  "tempMaxDegC": 20.7,
+  "tempMinDegC": 11,
+  "rainMM": 84,
+  "sunHours": 173.5
+},
+{
+  "year": 2011,
+  "month": 7,
+  "tempMaxDegC": 21.7,
+  "tempMinDegC": 12.6,
+  "rainMM": 49.8,
+  "sunHours": 173.6
+},
+{
+  "year": 2011,
+  "month": 8,
+  "tempMaxDegC": 21.8,
+  "tempMinDegC": 13.4,
+  "rainMM": 68.8,
+  "sunHours": 144.1
+},
+{
+  "year": 2011,
+  "month": 9,
+  "tempMaxDegC": 21.3,
+  "tempMinDegC": 12.4,
+  "rainMM": 35,
+  "sunHours": 161.2
+},
+{
+  "year": 2011,
+  "month": 10,
+  "tempMaxDegC": 18.1,
+  "tempMinDegC": 10.1,
+  "rainMM": 18.4,
+  "sunHours": 140.4
+},
+{
+  "year": 2011,
+  "month": 11,
+  "tempMaxDegC": 13.6,
+  "tempMinDegC": 7.3,
+  "rainMM": 29,
+  "sunHours": 52.5
+},
+{
+  "year": 2011,
+  "month": 12,
+  "tempMaxDegC": 9.9,
+  "tempMinDegC": 3.8,
+  "rainMM": 63,
+  "sunHours": 60.6
+},
+{
+  "year": 2012,
+  "month": 1,
+  "tempMaxDegC": 9.8,
+  "tempMinDegC": 3.4,
+  "rainMM": 34.4,
+  "sunHours": 68.5
+},
+{
+  "year": 2012,
+  "month": 2,
+  "tempMaxDegC": 8,
+  "tempMinDegC": 1.3,
+  "rainMM": 16.8,
+  "sunHours": 84.9
+},
+{
+  "year": 2012,
+  "month": 3,
+  "tempMaxDegC": 14.7,
+  "tempMinDegC": 4.7,
+  "rainMM": 16.2,
+  "sunHours": 180.3
+},
+{
+  "year": 2012,
+  "month": 4,
+  "tempMaxDegC": 13.3,
+  "tempMinDegC": 4.9,
+  "rainMM": 98.4,
+  "sunHours": 141.7
+},
+{
+  "year": 2012,
+  "month": 5,
+  "tempMaxDegC": 18.2,
+  "tempMinDegC": 9.7,
+  "rainMM": 25.4,
+  "sunHours": 166.6
+},
+{
+  "year": 2012,
+  "month": 6,
+  "tempMaxDegC": 19.4,
+  "tempMinDegC": 11.6,
+  "rainMM": 110.8,
+  "sunHours": 118.5
+},
+{
+  "year": 2012,
+  "month": 7,
+  "tempMaxDegC": 21.3,
+  "tempMinDegC": 13.2,
+  "rainMM": 71.8,
+  "sunHours": 161.6
+},
+{
+  "year": 2012,
+  "month": 8,
+  "tempMaxDegC": 23.5,
+  "tempMinDegC": 14.3,
+  "rainMM": 36.4,
+  "sunHours": 182.6
+},
+{
+  "year": 2012,
+  "month": 9,
+  "tempMaxDegC": 20,
+  "tempMinDegC": 10.3,
+  "rainMM": 41.2,
+  "sunHours": 178.9
+},
+{
+  "year": 2012,
+  "month": 10,
+  "tempMaxDegC": 14.2,
+  "tempMinDegC": 8,
+  "rainMM": 88.4,
+  "sunHours": 85.6
+},
+{
+  "year": 2012,
+  "month": 11,
+  "tempMaxDegC": 11,
+  "tempMinDegC": 4.6,
+  "rainMM": 71.8,
+  "sunHours": 75.4
+},
+{
+  "year": 2012,
+  "month": 12,
+  "tempMaxDegC": 9,
+  "tempMinDegC": 2.6,
+  "rainMM": 95.8,
+  "sunHours": 58
+},
+{
+  "year": 2013,
+  "month": 1,
+  "tempMaxDegC": 6.5,
+  "tempMinDegC": 2,
+  "rainMM": 50.1,
+  "sunHours": 34.5
+},
+{
+  "year": 2013,
+  "month": 2,
+  "tempMaxDegC": 6.7,
+  "tempMinDegC": 1.2,
+  "rainMM": 32.8,
+  "sunHours": 64.9
+},
+{
+  "year": 2013,
+  "month": 3,
+  "tempMaxDegC": 6.9,
+  "tempMinDegC": 1.2,
+  "rainMM": 52.8,
+  "sunHours": 62.3
+},
+{
+  "year": 2013,
+  "month": 4,
+  "tempMaxDegC": 13.5,
+  "tempMinDegC": 4.7,
+  "rainMM": 34,
+  "sunHours": 162.8
+},
+{
+  "year": 2013,
+  "month": 5,
+  "tempMaxDegC": 16.4,
+  "tempMinDegC": 7.7,
+  "rainMM": 41.8,
+  "sunHours": 163.3
+},
+{
+  "year": 2013,
+  "month": 6,
+  "tempMaxDegC": 20.3,
+  "tempMinDegC": 11.2,
+  "rainMM": 11.6,
+  "sunHours": 157.5
+},
+{
+  "year": 2013,
+  "month": 7,
+  "tempMaxDegC": 27,
+  "tempMinDegC": 15.2,
+  "rainMM": 25.2,
+  "sunHours": 268.2
+},
+{
+  "year": 2013,
+  "month": 8,
+  "tempMaxDegC": 24.3,
+  "tempMinDegC": 14.3,
+  "rainMM": 32.6,
+  "sunHours": 198.7
+},
+{
+  "year": 2013,
+  "month": 9,
+  "tempMaxDegC": 19.7,
+  "tempMinDegC": 11.1,
+  "rainMM": 49.6,
+  "sunHours": 118.9
+},
+{
+  "year": 2013,
+  "month": 10,
+  "tempMaxDegC": 17,
+  "tempMinDegC": 10.6,
+  "rainMM": 81.4,
+  "sunHours": 89.6
+},
+{
+  "year": 2013,
+  "month": 11,
+  "tempMaxDegC": 10.4,
+  "tempMinDegC": 4.7,
+  "rainMM": 50,
+  "sunHours": 80.4
+},
+{
+  "year": 2013,
+  "month": 12,
+  "tempMaxDegC": 10.2,
+  "tempMinDegC": 3.5,
+  "rainMM": 98.2,
+  "sunHours": 51.3
+},
+{
+  "year": 2014,
+  "month": 1,
+  "tempMaxDegC": 10,
+  "tempMinDegC": 3.8,
+  "rainMM": 162.4,
+  "sunHours": 68.3
+},
+{
+  "year": 2014,
+  "month": 2,
+  "tempMaxDegC": 10.6,
+  "tempMinDegC": 4.4,
+  "rainMM": 89.8,
+  "sunHours": 91.7
+},
+{
+  "year": 2014,
+  "month": 3,
+  "tempMaxDegC": 14.1,
+  "tempMinDegC": 4.4,
+  "rainMM": 27.8,
+  "sunHours": 161.4
+},
+{
+  "year": 2014,
+  "month": 4,
+  "tempMaxDegC": 16.1,
+  "tempMinDegC": 7.5,
+  "rainMM": 58,
+  "sunHours": 156.9
+},
+{
+  "year": 2014,
+  "month": 5,
+  "tempMaxDegC": 18,
+  "tempMinDegC": 9.8,
+  "rainMM": 84.6,
+  "sunHours": 178.8
+},
+{
+  "year": 2014,
+  "month": 6,
+  "tempMaxDegC": 22.1,
+  "tempMinDegC": 12.5,
+  "rainMM": 40.8,
+  "sunHours": 220.2
+},
+{
+  "year": 2014,
+  "month": 7,
+  "tempMaxDegC": 25.8,
+  "tempMinDegC": 15,
+  "rainMM": 50,
+  "sunHours": 246.4
+},
+{
+  "year": 2014,
+  "month": 8,
+  "tempMaxDegC": 21.7,
+  "tempMinDegC": 12.7,
+  "rainMM": 97.6,
+  "sunHours": 183.6
+},
+{
+  "year": 2014,
+  "month": 9,
+  "tempMaxDegC": 21.5,
+  "tempMinDegC": 12.8,
+  "rainMM": 10.8,
+  "sunHours": 134.6
+},
+{
+  "year": 2014,
+  "month": 10,
+  "tempMaxDegC": 17.6,
+  "tempMinDegC": 11,
+  "rainMM": 76,
+  "sunHours": 103.8
+},
+{
+  "year": 2014,
+  "month": 11,
+  "tempMaxDegC": 12.5,
+  "tempMinDegC": 6.9,
+  "rainMM": 128.4,
+  "sunHours": 51.1
+},
+{
+  "year": 2014,
+  "month": 12,
+  "tempMaxDegC": 9.2,
+  "tempMinDegC": 3,
+  "rainMM": 37.8,
+  "sunHours": 71.6
+},
+{
+  "year": 2015,
+  "month": 1,
+  "tempMaxDegC": 8.8,
+  "tempMinDegC": 1.6,
+  "rainMM": 63.4,
+  "sunHours": 62
+},
+{
+  "year": 2015,
+  "month": 2,
+  "tempMaxDegC": 8,
+  "tempMinDegC": 1.8,
+  "rainMM": 38.6,
+  "sunHours": 63.9
+},
+{
+  "year": 2015,
+  "month": 3,
+  "tempMaxDegC": 11.6,
+  "tempMinDegC": 4.1,
+  "rainMM": 24,
+  "sunHours": 140.7
+},
+{
+  "year": 2015,
+  "month": 4,
+  "tempMaxDegC": 16.3,
+  "tempMinDegC": 6,
+  "rainMM": 16.2,
+  "sunHours": 212.1
+},
+{
+  "year": 2015,
+  "month": 5,
+  "tempMaxDegC": 17.6,
+  "tempMinDegC": 8.8,
+  "rainMM": 41.6,
+  "sunHours": 189
+},
+{
+  "year": 2015,
+  "month": 6,
+  "tempMaxDegC": 22.2,
+  "tempMinDegC": 11.4,
+  "rainMM": 12.2,
+  "sunHours": 197
+},
+{
+  "year": 2015,
+  "month": 7,
+  "tempMaxDegC": 23.7,
+  "tempMinDegC": 13.8,
+  "rainMM": 71.8,
+  "sunHours": 189.7
+},
+{
+  "year": 2015,
+  "month": 8,
+  "tempMaxDegC": 22.2,
+  "tempMinDegC": 14.1,
+  "rainMM": 116.8,
+  "sunHours": 134.1
+},
+{
+  "year": 2015,
+  "month": 9,
+  "tempMaxDegC": 18.6,
+  "tempMinDegC": 10.2,
+  "rainMM": 50,
+  "sunHours": 162.3
+},
+{
+  "year": 2015,
+  "month": 10,
+  "tempMaxDegC": 15.8,
+  "tempMinDegC": 9.3,
+  "rainMM": 39.8,
+  "sunHours": 94.2
+},
+{
+  "year": 2015,
+  "month": 11,
+  "tempMaxDegC": 13.4,
+  "tempMinDegC": 8,
+  "rainMM": 48.2,
+  "sunHours": 27.7
+},
+{
+  "year": 2015,
+  "month": 12,
+  "tempMaxDegC": 13.7,
+  "tempMinDegC": 8.9,
+  "rainMM": 39.4,
+  "sunHours": 35
+},
+{
+  "year": 2016,
+  "month": 1,
+  "tempMaxDegC": 9.5,
+  "tempMinDegC": 3,
+  "rainMM": 74.8,
+  "sunHours": 54.8
+},
+{
+  "year": 2016,
+  "month": 2,
+  "tempMaxDegC": 9.4,
+  "tempMinDegC": 2.9,
+  "rainMM": 43.8,
+  "sunHours": 86.8
+},
+{
+  "year": 2016,
+  "month": 3,
+  "tempMaxDegC": 10.7,
+  "tempMinDegC": 3.2,
+  "rainMM": 72.8,
+  "sunHours": 123.3
+},
+{
+  "year": 2016,
+  "month": 4,
+  "tempMaxDegC": 13.5,
+  "tempMinDegC": 4.9,
+  "rainMM": 47.2,
+  "sunHours": 170
+},
+{
+  "year": 2016,
+  "month": 5,
+  "tempMaxDegC": 19,
+  "tempMinDegC": 9.7,
+  "rainMM": 60.4,
+  "sunHours": 192.7
+},
+{
+  "year": 2016,
+  "month": 6,
+  "tempMaxDegC": 20.7,
+  "tempMinDegC": 12.7,
+  "rainMM": 93.4,
+  "sunHours": 101.7
+},
+{
+  "year": 2016,
+  "month": 7,
+  "tempMaxDegC": 24,
+  "tempMinDegC": 14.5,
+  "rainMM": 16,
+  "sunHours": 182.8
+},
+{
+  "year": 2016,
+  "month": 8,
+  "tempMaxDegC": 24.7,
+  "tempMinDegC": 14.6,
+  "rainMM": 21.6,
+  "sunHours": 201.4
+},
+{
+  "year": 2016,
+  "month": 9,
+  "tempMaxDegC": 22.4,
+  "tempMinDegC": 13.7,
+  "rainMM": 42.2,
+  "sunHours": 122.1
+},
+{
+  "year": 2016,
+  "month": 10,
+  "tempMaxDegC": 15.9,
+  "tempMinDegC": 8.7,
+  "rainMM": 21.6,
+  "sunHours": 105.6
+},
+{
+  "year": 2016,
+  "month": 11,
+  "tempMaxDegC": 10.5,
+  "tempMinDegC": 3.8,
+  "rainMM": 86.4,
+  "sunHours": 77.4
+},
+{
+  "year": 2016,
+  "month": 12,
+  "tempMaxDegC": 10.2,
+  "tempMinDegC": 3.4,
+  "rainMM": 10.4,
+  "sunHours": 55.1
+},
+{
+  "year": 2017,
+  "month": 1,
+  "tempMaxDegC": 7.6,
+  "tempMinDegC": 0.7,
+  "rainMM": 60.2,
+  "sunHours": 64.5
+},
+{
+  "year": 2017,
+  "month": 2,
+  "tempMaxDegC": 10,
+  "tempMinDegC": 4.4,
+  "rainMM": 38.2,
+  "sunHours": 47.8
+},
+{
+  "year": 2017,
+  "month": 3,
+  "tempMaxDegC": 14.1,
+  "tempMinDegC": 6.6,
+  "rainMM": 25.8,
+  "sunHours": 116.3
+},
+{
+  "year": 2017,
+  "month": 4,
+  "tempMaxDegC": 15.8,
+  "tempMinDegC": 5.9,
+  "rainMM": 4.6,
+  "sunHours": 186.2
+},
+{
+  "year": 2017,
+  "month": 5,
+  "tempMaxDegC": 19.8,
+  "tempMinDegC": 10.4,
+  "rainMM": 64.8,
+  "sunHours": 164.8
+},
+{
+  "year": 2017,
+  "month": 6,
+  "tempMaxDegC": 24,
+  "tempMinDegC": 13.9,
+  "rainMM": 46.4,
+  "sunHours": 204.3
+},
+{
+  "year": 2017,
+  "month": 7,
+  "tempMaxDegC": 23.8,
+  "tempMinDegC": 14.9,
+  "rainMM": 90,
+  "sunHours": 178
+},
+{
+  "year": 2017,
+  "month": 8,
+  "tempMaxDegC": 22,
+  "tempMinDegC": 13.5,
+  "rainMM": 58.6,
+  "sunHours": 174.9
+},
+{
+  "year": 2017,
+  "month": 9,
+  "tempMaxDegC": 19.2,
+  "tempMinDegC": 11,
+  "rainMM": 59,
+  "sunHours": 120.1
+},
+{
+  "year": 2017,
+  "month": 10,
+  "tempMaxDegC": 17.1,
+  "tempMinDegC": 10.3,
+  "rainMM": 9.2,
+  "sunHours": 84.6
+},
+{
+  "year": 2017,
+  "month": 11,
+  "tempMaxDegC": 11.1,
+  "tempMinDegC": 4.5,
+  "rainMM": 34.2,
+  "sunHours": 66.7
+},
+{
+  "year": 2017,
+  "month": 12,
+  "tempMaxDegC": 8.7,
+  "tempMinDegC": 2.9,
+  "rainMM": 81.2,
+  "sunHours": 43.8
+},
+{
+  "year": 2018,
+  "month": 1,
+  "tempMaxDegC": 9.7,
+  "tempMinDegC": 3.8,
+  "rainMM": 58,
+  "sunHours": 46.5
+},
+{
+  "year": 2018,
+  "month": 2,
+  "tempMaxDegC": 6.7,
+  "tempMinDegC": 0.6,
+  "rainMM": 29,
+  "sunHours": 92
+},
+{
+  "year": 2018,
+  "month": 3,
+  "tempMaxDegC": 9.8,
+  "tempMinDegC": 3,
+  "rainMM": 81.2,
+  "sunHours": 70.3
+},
+{
+  "year": 2018,
+  "month": 4,
+  "tempMaxDegC": 15.5,
+  "tempMinDegC": 7.9,
+  "rainMM": 65.2,
+  "sunHours": 113.4
+},
+{
+  "year": 2018,
+  "month": 5,
+  "tempMaxDegC": 20.8,
+  "tempMinDegC": 9.8,
+  "rainMM": 58.4,
+  "sunHours": 248.3
+},
+{
+  "year": 2018,
+  "month": 6,
+  "tempMaxDegC": 24.2,
+  "tempMinDegC": 13.1,
+  "rainMM": 0.4,
+  "sunHours": 234.5
+},
+{
+  "year": 2018,
+  "month": 7,
+  "tempMaxDegC": 28.3,
+  "tempMinDegC": 16.4,
+  "rainMM": 14.8,
+  "sunHours": 272.5
+},
+{
+  "year": 2018,
+  "month": 8,
+  "tempMaxDegC": 24.5,
+  "tempMinDegC": 14.5,
+  "rainMM": 48.2,
+  "sunHours": 182.1
+},
+{
+  "year": 2018,
+  "month": 9,
+  "tempMaxDegC": 20.9,
+  "tempMinDegC": 11,
+  "rainMM": 29.4,
+  "sunHours": 195
+},
+{
+  "year": 2018,
+  "month": 10,
+  "tempMaxDegC": 16.5,
+  "tempMinDegC": 8.5,
+  "rainMM": 61,
+  "sunHours": 137
+},
+{
+  "year": 2018,
+  "month": 11,
+  "tempMaxDegC": 12.2,
+  "tempMinDegC": 5.8,
+  "rainMM": 73.8,
+  "sunHours": 72.9
+},
+{
+  "year": 2018,
+  "month": 12,
+  "tempMaxDegC": 10.7,
+  "tempMinDegC": 5.2,
+  "rainMM": 60.6,
+  "sunHours": 40.3
+},
+{
+  "year": 2019,
+  "month": 1,
+  "tempMaxDegC": 7.6,
+  "tempMinDegC": 2,
+  "rainMM": 33.2,
+  "sunHours": 56.4
+},
+{
+  "year": 2019,
+  "month": 2,
+  "tempMaxDegC": 12.4,
+  "tempMinDegC": 3.3,
+  "rainMM": 34.2,
+  "sunHours": 120.2
+},
+{
+  "year": 2019,
+  "month": 3,
+  "tempMaxDegC": 13.1,
+  "tempMinDegC": 5.8,
+  "rainMM": 49.6,
+  "sunHours": 119
+},
+{
+  "year": 2019,
+  "month": 4,
+  "tempMaxDegC": 15.8,
+  "tempMinDegC": 5.7,
+  "rainMM": 12.8,
+  "sunHours": 170.1
+},
+{
+  "year": 2019,
+  "month": 5,
+  "tempMaxDegC": 18.6,
+  "tempMinDegC": 8.4,
+  "rainMM": 36,
+  "sunHours": 176.3
+},
+{
+  "year": 2019,
+  "month": 6,
+  "tempMaxDegC": 21.8,
+  "tempMinDegC": 11.9,
+  "rainMM": 81.8,
+  "sunHours": 170.1
+},
+{
+  "year": 2019,
+  "month": 7,
+  "tempMaxDegC": 25.5,
+  "tempMinDegC": 14.9,
+  "rainMM": 50.8,
+  "sunHours": 194.5
+},
+{
+  "year": 2019,
+  "month": 8,
+  "tempMaxDegC": 25.2,
+  "tempMinDegC": 14.1,
+  "rainMM": 33.6,
+  "sunHours": 201.2
+},
+{
+  "year": 2019,
+  "month": 9,
+  "tempMaxDegC": 21.2,
+  "tempMinDegC": 11.8,
+  "rainMM": 63,
+  "sunHours": 156.8
+},
+{
+  "year": 2019,
+  "month": 10,
+  "tempMaxDegC": 15.5,
+  "tempMinDegC": 8.6,
+  "rainMM": 92.8,
+  "sunHours": 74
+},
+{
+  "year": 2019,
+  "month": 11,
+  "tempMaxDegC": 10.3,
+  "tempMinDegC": 4.3,
+  "rainMM": 74.8,
+  "sunHours": 51.3
+},
+{
+  "year": 2019,
+  "month": 12,
+  "tempMaxDegC": 10.2,
+  "tempMinDegC": 4,
+  "rainMM": 89.6,
+  "sunHours": 56.2
+},
+{
+  "year": 2020,
+  "month": 1,
+  "tempMaxDegC": 10.1,
+  "tempMinDegC": 4.7,
+  "rainMM": 47.6,
+  "sunHours": 50.3
+},
+{
+  "year": 2020,
+  "month": 2,
+  "tempMaxDegC": 11.1,
+  "tempMinDegC": 4.3,
+  "rainMM": 99.8,
+  "sunHours": 62
+},
+{
+  "year": 2020,
+  "month": 3,
+  "tempMaxDegC": 12,
+  "tempMinDegC": 3.9,
+  "rainMM": 42.8,
+  "sunHours": 148
+},
+{
+  "year": 2020,
+  "month": 4,
+  "tempMaxDegC": 18.2,
+  "tempMinDegC": 6.5,
+  "rainMM": 38.2,
+  "sunHours": 235.4
+},
+{
+  "year": 2020,
+  "month": 5,
+  "tempMaxDegC": 21.1,
+  "tempMinDegC": 9.1,
+  "rainMM": 2,
+  "sunHours": 308.6
+},
+{
+  "year": 2020,
+  "month": 6,
+  "tempMaxDegC": 22.5,
+  "tempMinDegC": 12.6,
+  "rainMM": 54,
+  "sunHours": 174.9
+},
+{
+  "year": 2020,
+  "month": 7,
+  "tempMaxDegC": 23.8,
+  "tempMinDegC": 13.4,
+  "rainMM": 35.2,
+  "sunHours": 171.2
+},
+{
+  "year": 2020,
+  "month": 8,
+  "tempMaxDegC": 25.6,
+  "tempMinDegC": 15.6,
+  "rainMM": 58.2,
+  "sunHours": 161.8
+},
+{
+  "year": 2020,
+  "month": 9,
+  "tempMaxDegC": 21.6,
+  "tempMinDegC": 11.2,
+  "rainMM": 20,
+  "sunHours": 168.9
+},
+{
+  "year": 2020,
+  "month": 10,
+  "tempMaxDegC": 15.1,
+  "tempMinDegC": 8.8,
+  "rainMM": 142.2,
+  "sunHours": 51.6
+},
+{
+  "year": 2020,
+  "month": 11,
+  "tempMaxDegC": 12.7,
+  "tempMinDegC": 6.2,
+  "rainMM": 50.2,
+  "sunHours": 44.6
+},
+{
+  "year": 2020,
+  "month": 12,
+  "tempMaxDegC": 8.5,
+  "tempMinDegC": 3.5,
+  "rainMM": 72.4,
+  "sunHours": 36.5
+},
+{
+  "year": 2021,
+  "month": 1,
+  "tempMaxDegC": 7,
+  "tempMinDegC": 1.3,
+  "rainMM": 96.6,
+  "sunHours": 29.4
+},
+{
+  "year": 2021,
+  "month": 2,
+  "tempMaxDegC": 9.1,
+  "tempMinDegC": 3.1,
+  "rainMM": 36.4,
+  "sunHours": 57.9
+},
+{
+  "year": 2021,
+  "month": 3,
+  "tempMaxDegC": 12.1,
+  "tempMinDegC": 4.1,
+  "rainMM": 24.6,
+  "sunHours": 91.4
+},
+{
+  "year": 2021,
+  "month": 4,
+  "tempMaxDegC": 13.1,
+  "tempMinDegC": 2.9,
+  "rainMM": 7.2,
+  "sunHours": 202.6
+},
+{
+  "year": 2021,
+  "month": 5,
+  "tempMaxDegC": 16.5,
+  "tempMinDegC": 7.2,
+  "rainMM": 84.6,
+  "sunHours": 131.9
+},
+{
+  "year": 2021,
+  "month": 6,
+  "tempMaxDegC": 22.5,
+  "tempMinDegC": 13.3,
+  "rainMM": 88.2,
+  "sunHours": 159.6
+},
+{
+  "year": 2021,
+  "month": 7,
+  "tempMaxDegC": 24.2,
+  "tempMinDegC": 14.9,
+  "rainMM": 61.2,
+  "sunHours": 171.1
+},
+{
+  "year": 2021,
+  "month": 8,
+  "tempMaxDegC": 21.9,
+  "tempMinDegC": 13.4,
+  "rainMM": 42.2,
+  "sunHours": 95.6
+},
+{
+  "year": 2021,
+  "month": 9,
+  "tempMaxDegC": 22.3,
+  "tempMinDegC": 13.3,
+  "rainMM": 52.4,
+  "sunHours": 124
+},
+{
+  "year": 2021,
+  "month": 10,
+  "tempMaxDegC": 16.9,
+  "tempMinDegC": 9.7,
+  "rainMM": 87.6,
+  "sunHours": 84.2
+},
+{
+  "year": 2021,
+  "month": 11,
+  "tempMaxDegC": 11.4,
+  "tempMinDegC": 4.5,
+  "rainMM": 10.2,
+  "sunHours": 67.8
+},
+{
+  "year": 2021,
+  "month": 12,
+  "tempMaxDegC": 10.1,
+  "tempMinDegC": 5.3,
+  "rainMM": 71.2,
+  "sunHours": 21.1
+},
+{
+  "year": 2022,
+  "month": 1,
+  "tempMaxDegC": 8.9,
+  "tempMinDegC": 1.9,
+  "rainMM": 17.2,
+  "sunHours": 67.1
+},
+{
+  "year": 2022,
+  "month": 2,
+  "tempMaxDegC": 11.3,
+  "tempMinDegC": 4,
+  "rainMM": 49.6,
+  "sunHours": 78.4
+},
+{
+  "year": 2022,
+  "month": 3,
+  "tempMaxDegC": 13.2,
+  "tempMinDegC": 4.9,
+  "rainMM": 31.4,
+  "sunHours": 157.2
+},
+{
+  "year": 2022,
+  "month": 4,
+  "tempMaxDegC": 16.1,
+  "tempMinDegC": 5.7,
+  "rainMM": 16.4,
+  "sunHours": 167.2
+},
+{
+  "year": 2022,
+  "month": 5,
+  "tempMaxDegC": 20.2,
+  "tempMinDegC": 10.1,
+  "rainMM": 34.2,
+  "sunHours": 155.3
+},
+{
+  "year": 2022,
+  "month": 6,
+  "tempMaxDegC": 23.2,
+  "tempMinDegC": 11.9,
+  "rainMM": 24,
+  "sunHours": 212.2
+},
+{
+  "year": 2022,
+  "month": 7,
+  "tempMaxDegC": 27.2,
+  "tempMinDegC": 15.5,
+  "rainMM": 7.6,
+  "sunHours": 221.1
+},
+{
+  "year": 2022,
+  "month": 8,
+  "tempMaxDegC": 27,
+  "tempMinDegC": 15.9,
+  "rainMM": 54.4,
+  "sunHours": 234.3
+},
+{
+  "year": 2022,
+  "month": 9,
+  "tempMaxDegC": 20.2,
+  "tempMinDegC": 11.8,
+  "rainMM": 86,
+  "sunHours": 119.1
+},
+{
+  "year": 2022,
+  "month": 10,
+  "tempMaxDegC": 18.3,
+  "tempMinDegC": 10.4,
+  "rainMM": 81.4,
+  "sunHours": 132.8
+},
+{
+  "year": 2022,
+  "month": 11,
+  "tempMaxDegC": 13.2,
+  "tempMinDegC": 7.6,
+  "rainMM": 123.8,
+  "sunHours": 69.9
+},
+{
+  "year": 2022,
+  "month": 12,
+  "tempMaxDegC": 7.9,
+  "tempMinDegC": 1.7,
+  "rainMM": 51.6,
+  "sunHours": 56.4
+},
+{
+  "year": 2023,
+  "month": 1,
+  "tempMaxDegC": 9,
+  "tempMinDegC": 2.5,
+  "rainMM": 66.2,
+  "sunHours": 68.2
+},
+{
+  "year": 2023,
+  "month": 2,
+  "tempMaxDegC": 10.8,
+  "tempMinDegC": 3.4,
+  "rainMM": 4.2,
+  "sunHours": 81.3
+},
+{
+  "year": 2023,
+  "month": 3,
+  "tempMaxDegC": 11.5,
+  "tempMinDegC": 5.2,
+  "rainMM": 92.4,
+  "sunHours": 60.2
+},
+{
+  "year": 2023,
+  "month": 4,
+  "tempMaxDegC": 14.6,
+  "tempMinDegC": 5.9,
+  "rainMM": 65.8,
+  "sunHours": 151.1
+},
+{
+  "year": 2023,
+  "month": 5,
+  "tempMaxDegC": 18.6,
+  "tempMinDegC": 9.3,
+  "rainMM": 38.4,
+  "sunHours": 196.6
+},
+{
+  "year": 2023,
+  "month": 6,
+  "tempMaxDegC": 25.3,
+  "tempMinDegC": 13.5,
+  "rainMM": 56.8,
+  "sunHours": 250.2
+},
+{
+  "year": 2023,
+  "month": 7,
+  "tempMaxDegC": 22.9,
+  "tempMinDegC": 14,
+  "rainMM": 61.4,
+  "sunHours": 150.1
+},
+{
+  "year": 2023,
+  "month": 8,
+  "tempMaxDegC": 23,
+  "tempMinDegC": 13.8,
+  "rainMM": 53,
+  "sunHours": 171.1
+},
+{
+  "year": 2023,
+  "month": 9,
+  "tempMaxDegC": 24.4,
+  "tempMinDegC": 14.7,
+  "rainMM": 59.4,
+  "sunHours": 167.9
+},
+{
+  "year": 2023,
+  "month": 10,
+  "tempMaxDegC": 18.1,
+  "tempMinDegC": 10.2,
+  "rainMM": 116.8,
+  "sunHours": 112.9
+},
+{
+  "year": 2023,
+  "month": 11,
+  "tempMaxDegC": 11.8,
+  "tempMinDegC": 5.4,
+  "rainMM": 78.4,
+  "sunHours": 74.9
+}]

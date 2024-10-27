@@ -1,0 +1,31 @@
+.weather-table {
+  border-spacing: 1;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 6px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+
+  thead th {
+    position: sticky;
+    top: 0;
+    height: 64px;
+    background: #4682f1;
+    color: white;
+    font-size: 16px;
+  }
+
+  tbody tr {
+    height: 40px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+
+    &:last-child {
+      border: 0;
+    }
+
+    td {
+      padding-left: 24px;
+    }
+  }
+}
