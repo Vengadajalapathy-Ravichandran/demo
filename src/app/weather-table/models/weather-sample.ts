@@ -34,3 +34,16 @@ export interface WeatherSample {
    */
   sunHours: number;
 }
+
+export interface YearlySummary { 
+  year: number;
+  avgMaxTemp: number;
+  avgMinTemp: number;
+  avgRain: number;
+  avgSunHours: number;
+}
+
+export interface YearlyData { 
+  groupedData: Record<number, WeatherSample[]>,
+  yearlySummaries: YearlySummary[]
+}

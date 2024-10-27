@@ -1,7 +1,7 @@
 import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { Observable, catchError, throwError } from 'rxjs';
-import { WeatherSample } from '../models/weather-sample';
+import { Observable, catchError, throwError, map } from 'rxjs';
+import { WeatherSample, YearlySummary, YearlyData } from '../models/weather-sample';
 
 /**
  * Service that contacts remote endpoint to fetch historical weather data.
@@ -10,7 +10,7 @@ import { WeatherSample } from '../models/weather-sample';
   providedIn: 'root',
 })
 export class WeatherService {
-  constructor(readonly httpClient: HttpClient) {}
+  constructor(readonly httpClient: HttpClient) { }
 
   /**
    * Returns Array of WeatherSamples for Heathrow Airport - London.
@@ -20,10 +20,32 @@ export class WeatherService {
    *
    * @returns {Array<WeatherSample>} An Array of Weather Samples
    */
-  public getWeatherSamples(): Observable<Array<WeatherSample>> {
+  public getWeatherSamples(): Observable<YearlyData> {
     return this.httpClient
       .get<Array<WeatherSample>>('../assets/weather.json')
-      .pipe(catchError(this.handleError));
+      .pipe(map((d) => {
+        const { yearlySummaries, groupedData } = this.getYearlyData(d);
+        return { yearlySummaries, groupedData }
+      }), catchError(this.handleError));
+  }
+
+  public getYearlyData(weatherData: WeatherSample[]) {
+    const groupedData = weatherData.reduce((acc, data) => {
+      acc[data.year] = acc[data.year] || [];
+      acc[data.year].push(data);
+      return acc;
+    }, {} as Record<number, WeatherSample[]>);
+
+    const yearlySummaries: YearlySummary[] = [];
+    for (const year in groupedData) {
+      const yearData = groupedData[year];
+      const avgMaxTemp = yearData.reduce((sum, data) => sum + data.tempMaxDegC, 0) / yearData.length;
+      const avgMinTemp = yearData.reduce((sum, data) => sum + data.tempMinDegC, 0) / yearData.length;
+      const avgRain = yearData.reduce((sum, data) => sum + data.rainMM, 0) / yearData.length;
+      const avgSunHours = yearData.reduce((sum, data) => sum + data.sunHours, 0) / yearData.length;
+      yearlySummaries.push({ year: +year, avgMaxTemp, avgMinTemp, avgRain, avgSunHours });
+    }
+    return { groupedData, yearlySummaries };
   }
 
   private handleError(error: HttpErrorResponse) {

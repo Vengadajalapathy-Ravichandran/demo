@@ -1,5 +1,5 @@
 import { ChangeDetectionStrategy, Component, Input } from '@angular/core';
-import { WeatherSample } from './models/weather-sample';
+import { YearlyData } from './models/weather-sample';
 import { CommonModule } from '@angular/common';
 
 /**
@@ -19,6 +19,6 @@ export class WeatherTableComponent {
    * Data source for table
    */
   @Input()
-  public historicWeatherData: Array<WeatherSample> | null = []
-
+  public historicWeatherData: any;
+  
 }

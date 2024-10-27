@@ -2,7 +2,7 @@ import { CommonModule } from '@angular/common';
 import { HttpClientModule } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { Observable } from 'rxjs';
-import { WeatherSample } from './weather-table/models/weather-sample';
+import { YearlyData } from './weather-table/models/weather-sample';
 import { WeatherService } from './weather-table/services/weather.service';
 import { WeatherTableComponent } from './weather-table/weather-table.component';
 
@@ -18,7 +18,7 @@ import { WeatherTableComponent } from './weather-table/weather-table.component';
   styleUrl: './app.component.scss',
 })
 export class AppComponent implements OnInit {
-  public historicWeatherData!: Observable<Array<WeatherSample>>;
+  public historicWeatherData!: Observable<YearlyData>;
 
   /**
    * @param weatherService service to provide historical weather data.

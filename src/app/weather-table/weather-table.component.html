@@ -8,13 +8,24 @@
     <th>Total Sunlight (hours)</th>
   </thead>
   <tbody>
-    <tr *ngFor="let item of historicWeatherData">
-      <td>{{ item.year }}</td>
-      <td>{{ item.month }}</td>
-      <td>{{ item.tempMinDegC }}</td>
-      <td>{{ item.tempMaxDegC }}</td>
-      <td>{{ item.rainMM }}</td>
-      <td>{{ item.sunHours }}</td>
-    </tr>
+    <ng-container *ngIf="historicWeatherData">
+      <ng-container *ngFor="let year of historicWeatherData?.yearlySummaries">
+        <tr *ngFor="let item of historicWeatherData?.groupedData?.[year?.year]">
+          <td>{{ item.year }}</td>
+          <td>{{ item.month }}</td>
+          <td>{{ item.tempMinDegC }}</td>
+          <td>{{ item.tempMaxDegC }}</td>
+          <td>{{ item.rainMM }}</td>
+          <td>{{ item.sunHours }}</td>
+        </tr>
+        <tr>
+          <td colspan="2">**YEARLY AVG**</td>
+          <td>**{{ year.avgMinTemp | number: '1.2-2' }}**</td>
+          <td>**{{ year.avgMaxTemp | number: '1.1-2' }}**</td>
+          <td>**{{ year.avgRain | number: '1.1-2' }}**</td>
+          <td>**{{ year.avgSunHours | number: '1.1-2' }}**</td>
+        </tr>
+      </ng-container>
+    </ng-container>
   </tbody>
 </table>
